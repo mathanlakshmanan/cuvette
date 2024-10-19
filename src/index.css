@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: "DM Sans", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,4 +10,87 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.w-60{
+  width: 60%;
+}
+.w-65{
+  width: 65%;
+}
+input#name {
+  background-image: url(./assets/Person.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 12px 12px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+
+inputname {
+  background-image: url(./assets/Person.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 12px 12px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+input#phone {
+  background-image: url(./assets/phone.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 12px 12px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+input#company {
+  background-image: url(./assets/Person.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 12px 12px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+input#email {
+  background-image: url(./assets/mail.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 12px 12px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+input#size {
+  background-image: url(./assets/size.png);
+  width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 6px 6px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
 }

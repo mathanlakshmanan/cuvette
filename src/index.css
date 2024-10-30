@@ -31,7 +31,7 @@ input#name {
 }
 
 
-inputname {
+input#password {
   background-image: url(./assets/Person.png);
   width: 100%;
     box-sizing: border-box;
